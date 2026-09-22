@@ -15,7 +15,7 @@ The Working Group structures its initiatives, hosted projects, and community eng
 We serve as a neutral ground to map implementation gaps, capture emerging requirements, and drive the effective application of existing industry specifications.
 
 > * **Format-Neutral Advocacy:** Foster an environment of interoperability ("Pax Interoperabilitatis") across competing and complementary formats.  
-> * **Implementation Guidance:** Provide technical assessment and deployment support for **SPDX** and **CycloneDX** for SBOM, and for **CSAF**, **CycloneDX**, **OpenVEX** and **SPDX** for VEX vulnerability suppression.  
+> * **Implementation Guidance:** Provide technical assessment and deployment support for **SPDX** and **CycloneDX** for SBOM, and for **CSAF**, **CycloneDX**, **OpenVEX** and **SPDX** for VEX vulnerability expression.  
 > * **VEX Evolution:** Enhance, refine, and support the deployment of the **VEX "metaspec"** across its foundational flavors.  
 > * **Cross-Ecosystem Bridge:** Maintain active feedback loops with external standards bodies, including SPDX, CycloneDX, and CSAF, and the multiple standards that reference SBOM data and requirements.
 
