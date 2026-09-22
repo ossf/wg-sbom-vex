@@ -65,7 +65,7 @@ To maintain momentum across a diverse set of deliverables while remaining access
 > * **Bi-weekly SBOM Call:** A structured engineering and planning forum to track deliverables, tool development, and broader ecosystem alignment.  
 > * **Bi-weekly VEX Call:** A format-neutral sync to review real-world implementation experiences, address automation gaps, and optimize VEX interoperability.  
 > * **Monthly OpenVEX Project Call:** A dedicated technical sync focused exclusively on OpenVEX specification updates, tooling, and roadmap execution.  
-> * **Weekly SBOM Coffee Hour:** An informal community gathering for guest presentations, emerging research reviews, and unstructured Q\&A for new adopters.
+> * **Weekly SBOM and VEX Coffee Hour:** An informal community gathering for guest presentations, emerging research reviews, and unstructured Q\&A for new adopters.
 
 ## 5. Governance
 
