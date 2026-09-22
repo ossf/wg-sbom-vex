@@ -78,7 +78,7 @@ The working group uses a multi-tiered meeting structure. All calls are open to e
 - The **SBOM Call** is the structured engineering and planning forum to track deliverables, tool development, and broader ecosystem alignment.
 - The **VEX Call** is a format-neutral sync to review real-world implementation experiences, address automation gaps, and optimize VEX interoperability.
 - The **OpenVEX Project Call** is a dedicated technical sync focused exclusively on OpenVEX specification updates, tooling, and roadmap execution.
-- The **SBOM Coffee Hour** is an informal community gathering for guest presentations, emerging research reviews, and unstructured Q&A for new adopters.
+- The **SBOM & VEX Coffee Hour** is an informal community gathering for guest presentations, emerging research reviews, and unstructured Q&A for new adopters.
 
 ## Cross-WG Collaboration
 
