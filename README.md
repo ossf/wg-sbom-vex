@@ -23,7 +23,7 @@ The full mission statement is in the [charter](CHARTER.md#1-mission).
 
 The working group structures its initiatives, hosted projects, and community engagement around three pillars (see the [charter](CHARTER.md#2-scope) for details):
 
-1. **Formats and Standards.** A neutral ground to map implementation gaps, capture emerging requirements, and drive the effective application of SPDX, CycloneDX, CSAF, and OpenVEX. We foster interoperability across formats ("Pax Interoperabilitatis"), support the evolution of the VEX metaspec, and maintain feedback loops with external standards bodies.
+1. **Formats and Standards.** A neutral ground to map implementation gaps, capture emerging requirements, and drive the effective application of SPDX, CycloneDX, CSAF, and OpenVEX. We foster interoperability across formats ("Pax Interoperabilitatis"), support the evolution of the VEX metaspec and  best practices for SBOM generation in product lifecycles, and maintain feedback loops with external standards bodies.
 2. **Technical Initiatives.** We incubate, host, and maintain developer-focused tools that automate the generation, consumption, validation, and enrichment of SBOM and VEX artifacts, and we support emerging domain-specific tools such as those extending SBOMs into data and AI.
 3. **Education and Adoption.** We author guides and playbooks, benchmark tooling, and cultivate open forums to lower the barrier to entry for software transparency, for both producers and downstream consumers.
 
